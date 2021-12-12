@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jatinsh95
+- 👀 I like to learn about the new tech.
+- 🌱 I’m currently learning Reactjs
+- 📫 How to reach me jatin.axle95@gmail.com
